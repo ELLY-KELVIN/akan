@@ -1,19 +1,19 @@
 # akan
 ## Author
 
-[ELLY KELVIN](https://github.com/ELLY-KELVIN/akan.git)
+[ELLY KELVIN](https://elly-kelvin.github.io/akan/)
 
 ## Description
 
 This project is a web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name. 
 ## Live Page 
-https://github.com/ELLY-KELVIN/akan.git
+https://elly-kelvin.github.io/akan/
 
 
 ## Installation / Setup instruction
 * Open Terminal {Ctrl+Alt+T}
 
-* git clone ```https://github.com/ELLY-KELVIN/akan.git```
+* git clone ```https://elly-kelvin.github.io/akan/```
 
 * cd Akan-Names
 
