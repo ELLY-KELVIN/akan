@@ -28,11 +28,11 @@ https://github.com/ELLY-KELVIN/akan.git
 * Bootstrap
 
 ## BDD
-Enter century of birth eg 20 for 2019,
+Enter century of birth eg 20 for 2022,
      Input Example 20
      Output example 20
 
-* Enter year of Birth eg 19 for 2019
+* Enter year of Birth eg 19 for 2022
      Input Example 19
      Output Example 19
 
