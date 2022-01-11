@@ -15,7 +15,7 @@ https://github.com/ELLY-KELVIN/akan.git
 
 * git clone ```https://github.com/ELLY-KELVIN/akan.git```
 
-* cd akan
+* cd Akan-Names
 
 * code . or atom . based on the text editor you have.
 
@@ -24,14 +24,15 @@ https://github.com/ELLY-KELVIN/akan.git
 * HTML5
 * CSS
 * JavaScript
+* markdown
 * Bootstrap
 
 ## BDD
-Enter century of birth eg 20 for 2022,
+Enter century of birth eg 20 for 2019,
      Input Example 20
      Output example 20
 
-* Enter year of Birth eg 19 for 2022
+* Enter year of Birth eg 19 for 2019
      Input Example 19
      Output Example 19
 
